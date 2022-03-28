@@ -1,0 +1,99 @@
+body{
+	background-color:#E7E9EA;
+}
+
+.adp{
+	width:25%;
+	display:block;
+	margin:auto;
+	text-align:center;
+} 
+
+.pl{
+	width:60%;
+	display:block;
+	margin:auto;
+	text-align:center;
+	margin-bottom:10px;
+} 
+
+#footer{
+    display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+    background: rgb(87, 87, 87);
+    height: 50px;
+    width: 100vw;
+    color: #fff;
+    text-align:center;
+    margin-top:25px;
+    font-size: 20px;
+}
+
+.topnav {
+  background-color: rgb(87, 87, 87);
+  overflow: hidden;
+  border-radius:5px;
+  font-size: 20px;
+  height: 50px;
+  font-family: Arial, sans-serif;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: rgb(128, 128, 128);
+  color: white;
+}
+
+.tg {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-color: #ccc;
+}
+
+.tg td {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	padding: 10px 5px;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+	word-break: normal;
+	border-color: #ccc;
+	color: #333;
+	background-color: #fff;
+}
+
+.tg th {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 10px 5px;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+	word-break: normal;
+	border-color: #ccc;
+	color: #333;
+	background-color: #f0f0f0;
+}
+
+.tg .tg-4eph {
+	background-color: #f9f9f9
+}
